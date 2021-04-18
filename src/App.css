@@ -1,0 +1,65 @@
+body{
+  background-image: url("https://hipconation.com/wp-content/uploads/2018/08/background-website-26-hd-wallpaper-background-and-wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h2{
+  text-align: center;
+  color: black;
+  font-size: 3rem;
+  font-family: 'times-new-roman';
+}
+.col{
+  background-color: rgb(167, 160, 156);
+  text-align: center;
+  font-size: 4rem;
+  font-family: 'times-new-roman' ;
+  color: black;
+  display: inline-block;
+  border: solid rgb(83, 83, 80) 3px;
+  border-radius: 50px;
+  height: 115px;
+  width: 115px;
+  cursor: pointer;
+}
+.row{
+  display: flex;
+  justify-content: center;
+}
+#turn{
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'times-new-roman';
+  margin-top: 1rem;
+}
+
+/* body{
+  background-image: url("https://hipconation.com/wp-content/uploads/2018/08/background-website-26-hd-wallpaper-background-and-wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.col{
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border: solid 5px yellowgreen;
+  text-align: center;
+  cursor: pointer;
+}
+.row{
+  display: flex;
+  justify-content: center;
+}
+h2{
+  text-align: center;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+}
+#turn{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 15px;
+  color: white;
+} */
